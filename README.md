@@ -1,2 +1,3 @@
-# yaourt-gui
-A bash GUI for yaourt
+# Jekyll JetPack
+:rocket:
+A bash GUI for Jekyll
